@@ -276,12 +276,12 @@ GitHub Copilot Workspace is an AI-enhanced development environment designed to s
 
 | Released   | Cost             | Open source | From   |
 |------------|------------------|-------------|--------|
-| Feb 2025   | preview   | No          | [GitHub]https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/) |
+| Feb 2025   | preview   | No          | [GitHub](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/) |
 
 GitHub Copilot's **Agent Mode** is an advanced feature designed to enhance developer productivity by enabling autonomous execution of complex coding tasks. 
 
 - **Autonomous Task Execution**: In Agent Mode, Copilot can independently perform multi-step coding tasks based on user prompts. It analyzes the codebase, determines necessary modifications, and implements changes across relevant files without continuous user input.
 - **Error Detection and Self-Healing**: The agent proactively identifies errors during code execution, such as compile or lint issues, and autonomously rectifies them, ensuring smoother development workflows. 
 - **Terminal Command Suggestions**: Copilot recommends and can execute terminal commands essential for tasks like installing dependencies, running tests, or deploying applications, thereby automating routine command-line operations. 
-- **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions. citeturn0search2
+- **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions.
 - **Integration with Visual Studio Code**: Currently available in preview for Visual Studio Code, Agent Mode integrates seamlessly into the development environment, allowing developers to leverage its capabilities within their existing workflows.
