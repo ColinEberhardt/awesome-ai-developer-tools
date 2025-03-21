@@ -17,6 +17,7 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [Cline](#Cline)
 	* [Windsurf](#Windsurf)
 	* [Aider](#Aider)
+	* [poorcoder](#poorcoder)
 * [Rapid prototyping](#Rapidprototyping)
 	* [v0](#v0)
 	* [Bolt](#Bolt)
@@ -198,6 +199,21 @@ Aider is an open-source AI-powered pair programming tool that integrates directl
 - **Real-Time IDE Integration** – Works within preferred editors or IDEs, ensuring real-time updates and a seamless coding experience.
 - **Enhanced Interaction Features** – Supports adding images, URLs, and voice commands to chat interactions, enriching communication with the AI assistant.
 - **Efficient Large Codebase Handling** – Utilizes repository mapping to handle large codebases effectively, ensuring context-aware assistance and efficient navigation.
+
+### <a name='poorcoder'></a>poorcoder
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2024   | free   | Yes         | [poorcoder](https://github.com/vgrichina/poorcoder) |
+
+poorcoder is a collection of lightweight Bash scripts designed to bridge the gap between web-based AI interfaces and terminal-based development workflows.
+
+- **Terminal-Centric Development** – Maintains developers' terminal workflow while integrating AI assistance, following the Unix philosophy of small, focused tools that work together seamlessly.
+- **Code Context Extraction** – Provides targeted extraction of code context from files, directories, or patterns to send to AI models, ensuring relevant context for better AI responses.
+- **Multi-File Editing** – Automatically applies AI-suggested changes across multiple files simultaneously, streamlining implementation of complex features or bug fixes.
+- **Automated Code Application** – Extracts code blocks from AI-generated markdown responses and applies changes directly to the filesystem, reducing manual copy-paste operations.
+- **Git-Aware Workflows** – Generates git-related context for AI-assisted commit messages, improving version control documentation quality.
+- **Cost-Effective AI Integration** – Leverages existing web-based LLM subscriptions ($20-30/month) rather than requiring expensive API usage ($100-500/month for heavy use).
 
 ## <a name='Rapidprototyping'></a>Rapid prototyping
 
