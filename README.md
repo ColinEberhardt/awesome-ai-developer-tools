@@ -167,6 +167,21 @@ Cline is an open-source AI coding assistant designed to enhance developer produc
 - **Browser Interaction** – Launches sites in a headless browser, performs actions like clicking and typing, and captures screenshots and logs for testing and debugging.
 - **Community-Driven Development** – Encourages contributions from the open-source community, ensuring continuous improvement and new feature additions.
 
+### <a name='GoCodeo'></a>GoCodeo
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| Jan 2025   | $0-$19 user/mo  | No          | [GoCodeo](https://www.gocodeo.com/) |
+
+GoCodeo is an AI coding agent for building full-stack apps in minutes, with one-click Vercel deployment and seamless Supabase integration. With MCP support, create agentic tools that connect to GitHub and Notion for context-aware code generation every step of the way.
+
+- **Build Entire Projects with AI** – Generate complete, production-ready full-stack apps from plain English prompts, including project structure, dependencies, and scalable architecture.
+- **One-Click Vercel Deployment** – Deploy apps instantly from VS Code with auto-generated configs, environment variable management, and CI/CD setup
+- **Model Context Protocol (MCP)** –  Enable real-time, context-rich AI agents that orchestrate multi-step workflows across tools like GitHub, Notion, Postgres, and Stripe with live environment awareness.
+- **Seamless GitHub Sync** – Manage commits, branches, and repo state directly within VS Code to reduce context switching.
+- **Framework & LLM Flexibility** – Supports 25+ web frameworks including React, Next.js, Django, Flask, Express.js, and Spring Boot. Dynamically select from Claude 3.7 & 3.5 Sonnet, Gemini 2.5 Pro, DeepSeek-R1, GPT-4o, and o3-mini for optimal AI outputs.
+- **Built-in Web Search** – Access live code references, framework examples, and StackOverflow insights without leaving the editor.
+
 ### <a name='Windsurf'></a>Windsurf
 
 | Released   | Cost             | Open source | From   |
