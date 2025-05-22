@@ -15,6 +15,7 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [Replit Agent](#ReplitAgent)
 	* [Cursor](#Cursor)
 	* [Cline](#Cline)
+        * [GoCodeo](#gocodeo)
 	* [Windsurf](#Windsurf)
 	* [Aider](#Aider)
 * [Rapid prototyping](#Rapidprototyping)
