@@ -27,6 +27,8 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [Devin](#Devin)
 	* [Copilot Workspaces](#CopilotWorkspaces)
 	* [GitHub Copilot Agent Mode](#GitHubCopilotAgentMode)
+* [Monitoring and Analysis](#MonitoringandAnalysis)
+	* [Evolution Engine](#EvolutionEngine)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -314,3 +316,9 @@ GitHub Copilot's **Agent Mode** is an advanced feature designed to enhance devel
 - **Terminal Command Suggestions**: Copilot recommends and can execute terminal commands essential for tasks like installing dependencies, running tests, or deploying applications, thereby automating routine command-line operations. 
 - **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions.
 - **Integration with Visual Studio Code**: Currently available in preview for Visual Studio Code, Agent Mode integrates seamlessly into the development environment, allowing developers to leverage its capabilities within their existing workflows.
+
+## <a name='MonitoringandAnalysis'></a>Monitoring and Analysis
+
+### <a name='EvolutionEngine'></a>Evolution Engine
+
+- [Evolution Engine](https://github.com/alpsla/evolution-engine) - Drift detector for AI-assisted development. Monitors git, CI, dependency, and deployment signals locally.
