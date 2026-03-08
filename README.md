@@ -259,6 +259,22 @@ Lovable.dev is an AI-powered platform designed to simplify and accelerate web ap
 - **AI-Assisted Code Generation** – Automates coding by generating layouts and UI components, reducing the need for extensive coding knowledge.
 - **Real-Time Collaboration** – Supports live rendering, instant undo, and collaborative branching, enabling seamless teamwork on the same project.
 
+## Cost & Usage Analytics
+
+### BurnRate
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2025   | free   | Yes          | [BurnRate](https://getburnrate.io) |
+
+BurnRate is a local-first CLI tool written in Go that tracks AI coding tool usage and costs across 7 providers: Claude Code, Cursor, GitHub Copilot, Windsurf, Aider, Cline, and OpenAI Codex.
+
+- **Multi-Provider Cost Analytics** -- Parses local session data from 7 AI coding tools and calculates real-time cost breakdowns per provider, model, and project.
+- **Optimization Engine** -- 46 built-in optimization rules with educational content, config snippets, and auto-apply to reduce AI coding spend.
+- **Rate Limit Monitoring** -- Tracks usage limits across providers with predictions and warnings before hitting caps.
+- **Local Dashboard** -- Serves a real-time analytics dashboard on localhost with no data sent externally.
+- **Team Budgets** -- Project budget evaluation against configured caps with desktop notifications and team alerts.
+
 ## <a name='Agents'></a>Agents
 
 ### <a name='OpenWork'></a>OpenWork
