@@ -27,6 +27,8 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [Devin](#Devin)
 	* [Copilot Workspaces](#CopilotWorkspaces)
 	* [GitHub Copilot Agent Mode](#GitHubCopilotAgentMode)
+* [Backend Platforms](#BackendPlatforms)
+	* [InsForge](#InsForge)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -314,3 +316,22 @@ GitHub Copilot's **Agent Mode** is an advanced feature designed to enhance devel
 - **Terminal Command Suggestions**: Copilot recommends and can execute terminal commands essential for tasks like installing dependencies, running tests, or deploying applications, thereby automating routine command-line operations. 
 - **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions.
 - **Integration with Visual Studio Code**: Currently available in preview for Visual Studio Code, Agent Mode integrates seamlessly into the development environment, allowing developers to leverage its capabilities within their existing workflows.
+
+## <a name='BackendPlatforms'></a>Backend Platforms
+
+### <a name='InsForge'></a>InsForge
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2025   | Free   | Yes          | [InsForge](https://insforge.dev/) |
+
+InsForge is a backend development platform purpose-built for AI coding agents and editors. It acts as a semantic layer that exposes backend primitives — databases, authentication, storage, and functions — in ways that AI systems can comprehend and operate upon end-to-end.
+
+- **Postgres Database** – Provides a fully managed PostgreSQL database for every project, with built-in vector search via pgvector for AI-native applications.
+- **Authentication** – User management and session handling with OAuth integration, ready for agents to configure and operate.
+- **Cloud Storage** – S3-compatible file storage and serving, enabling agents to manage assets and uploads programmatically.
+- **Edge Functions** – Serverless backend logic deployment, allowing agents to write and deploy server-side code on demand.
+- **Realtime** – Live data synchronization for building reactive applications with minimal configuration.
+- **AI Model Gateway** – OpenAI-compatible API supporting multiple LLM providers, giving projects unified access to AI models.
+- **Agent-Friendly Architecture** – Agents can fetch documentation, discover available operations, configure backend systems, and inspect state through structured schemas.
+- **Flexible Deployment** – Available as a cloud-hosted service or self-hosted via Docker Compose, with one-click deployment on Railway, Zeabur, and Sealos.
