@@ -261,6 +261,22 @@ Lovable.dev is an AI-powered platform designed to simplify and accelerate web ap
 
 ## <a name='Agents'></a>Agents
 
+### <a name='Octomind'></a>Octomind
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2025   | Free   | Yes          | [Muvon](https://muvon.io) |
+
+Octomind is a session-based AI development assistant written in Rust that implements the Model Context Protocol (MCP) for extensible tool integration.
+
+- **MCP Protocol Support** – Full implementation of the Model Context Protocol, allowing integration with any MCP-compatible tool or server.
+- **Multi-Provider Support** – Works with 7 LLM providers: OpenRouter, OpenAI, Anthropic, Google, Amazon, Cloudflare, DeepSeek, and native Ollama.
+- **Plan-First Workflow** – Multi-step planning with validation gates for complex development tasks.
+- **Semantic Code Search** – Integration with Octocode for GraphRAG-based code understanding.
+- **Persistent Memory** – Via Octobrain integration with knowledge graphs for context retention across sessions.
+- **Real-Time Cost Tracking** – Transparent cost reporting per session with provider comparison.
+- **Extensible Architecture** – Configure any agent as an MCP tool via configuration files.
+
 ### <a name='OpenWork'></a>OpenWork
 
 | Released   | Cost             | Open source | From   |
