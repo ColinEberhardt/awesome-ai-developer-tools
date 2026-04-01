@@ -26,6 +26,7 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [OpenWork](#OpenWork)
 	* [Devin](#Devin)
 	* [Copilot Workspaces](#CopilotWorkspaces)
+	* [IM.codes](#IMcodes)
 	* [GitHub Copilot Agent Mode](#GitHubCopilotAgentMode)
 
 <!-- vscode-markdown-toc-config
@@ -300,6 +301,20 @@ GitHub Copilot Workspace is an AI-enhanced development environment designed to s
 - **Editable AI Proposals** – All AI-generated suggestions and plans are fully editable, allowing developers to tailor content to project requirements and coding standards.
 - **Integrated Code Execution** – Enables developers to execute code, validate changes, and test implementations directly within the workspace for a seamless development cycle.
 - **Collaborative Sharing** – Allows sharing workspace sessions via links, enabling team members to view progress, provide feedback, and collaborate effectively.
+
+### <a name='IMcodes'></a>IM.codes
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| Mar 2026   | self-hosted / eval instance   | Yes          | [IM.codes](https://github.com/im4codes/imcodes) |
+
+IM.codes is a mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents. Unlike tools that focus on being the agent itself or another desktop IDE, IM.codes is built around **away-from-desk continuation** — letting developers monitor and continue long-running agent workflows from phone or browser.
+
+- **Mobile/Web Continuation** – Keeps long-running coding-agent sessions within reach away from the desk, so developers can check progress, respond, and continue work from a phone, tablet, or browser instead of waiting to get back to a laptop.
+- **Terminal, Files, and Git in One Place** – Combines terminal access with file browsing and git views, making it practical to review agent output and follow up on changes remotely.
+- **Localhost Preview from Another Device** – Makes local web previews available from other devices, which is especially useful when an agent is iterating on UI or app behavior that needs quick inspection away from the development machine.
+- **Notifications and Multi-Agent Workflows** – Notifies developers when work finishes or needs attention, while also supporting multiple concurrent agent sessions and coordination flows.
+- **Works Around Existing Agents** – Designed as the control layer around Claude Code, Codex, Gemini CLI, and similar terminal-based agents, rather than replacing them with a separate AI environment.
 
 ### <a name='GitHubCopilotAgentMode'></a>GitHub Copilot Agent Mode
 
