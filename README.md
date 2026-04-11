@@ -27,6 +27,7 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [Devin](#Devin)
 	* [Copilot Workspaces](#CopilotWorkspaces)
 	* [GitHub Copilot Agent Mode](#GitHubCopilotAgentMode)
+	* [Toprank](#Toprank)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -314,3 +315,16 @@ GitHub Copilot's **Agent Mode** is an advanced feature designed to enhance devel
 - **Terminal Command Suggestions**: Copilot recommends and can execute terminal commands essential for tasks like installing dependencies, running tests, or deploying applications, thereby automating routine command-line operations. 
 - **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions.
 - **Integration with Visual Studio Code**: Currently available in preview for Visual Studio Code, Agent Mode integrates seamlessly into the development environment, allowing developers to leverage its capabilities within their existing workflows.
+
+### <a name='Toprank'></a>Toprank
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2025   | Free   | Yes          | [nowork-studio/toprank](https://github.com/nowork-studio/toprank) |
+
+Toprank is a Claude Code plugin that gives coding agents direct access to Google Search Console and Google Ads data so they can diagnose traffic and spend issues, then apply the resulting SEO fixes directly in a codebase.
+
+- **Repository-Aware SEO Fixes** – When used inside a repo, it can rewrite meta tags, fix heading structure, add structured data, and ship the changes as part of the developer workflow.
+- **Data-Backed Analysis** – Pulls Search Console and Google Ads context into the agent so recommendations are tied to real impressions, rankings, queries, and campaign performance.
+- **Specialized Claude Code Workflows** – Ships focused skills for SEO analysis, keyword research, content writing, schema generation, and Google Ads auditing rather than acting as a general-purpose coding agent.
+- **Open Source Plugin Distribution** – Installs through the Claude Code plugin marketplace and exposes its capabilities as `/toprank:*` commands, making it easy to add to an existing agent setup.
