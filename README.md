@@ -5,6 +5,8 @@ A curated list of the more mature AI tools for enhancing developer productivity.
 There are a growing number of tools that leverage AI to assist developers write code, refactor, debug and more. These fall into some broad categories, however, there is a lot of overlap, which blurs the boundaries. This *awesome list* isn't intended to exhaustively list every tool, there's already a [really good list for that purpose](https://github.com/jamesmurdza/awesome-ai-devtools). Rather, here we only cover the more mature tools, but importantly provide detail. This will hopefully be a more useful starting point for anyone wanting to compare and select a tool.
 
 <!-- vscode-markdown-toc -->
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 * [Autocompletion tools](#Autocompletiontools)
 	* [GitHub Copilot](#GitHubCopilot)
 	* [Amazon Q](#AmazonQ)
