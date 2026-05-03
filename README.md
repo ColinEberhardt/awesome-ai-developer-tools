@@ -1,5 +1,10 @@
 # Awesome AI Developer Tools
 
+## What's different in this fork
+
+
+
+
 A curated list of the more mature AI tools for enhancing developer productivity.
 
 There are a growing number of tools that leverage AI to assist developers write code, refactor, debug and more. These fall into some broad categories, however, there is a lot of overlap, which blurs the boundaries. This *awesome list* isn't intended to exhaustively list every tool, there's already a [really good list for that purpose](https://github.com/jamesmurdza/awesome-ai-devtools). Rather, here we only cover the more mature tools, but importantly provide detail. This will hopefully be a more useful starting point for anyone wanting to compare and select a tool.
