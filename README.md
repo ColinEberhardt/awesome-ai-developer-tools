@@ -6,6 +6,7 @@ There are a growing number of tools that leverage AI to assist developers write 
 
 <!-- vscode-markdown-toc -->
 * [Autocompletion tools](#Autocompletiontools)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 	* [GitHub Copilot](#GitHubCopilot)
 	* [Amazon Q](#AmazonQ)
 	* [Sweep](#Sweep)
