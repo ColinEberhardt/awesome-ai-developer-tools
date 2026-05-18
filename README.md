@@ -273,6 +273,18 @@ OpenWork is a desktop GUI for OpenCode that surfaces sessions, skills, plugins, 
 - **Workflow UI** – Presents plans, progress, and artifacts in a polished desktop interface.
 - **Extensible** – Installs and manages OpenCode skills and plugins from within the app.
 
+### <a name='EverythingOpenAICodex'></a>Everything OpenAI Codex
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2026   | Free   | Yes          | [mturac](https://github.com/mturac/everything-openai-codex) |
+
+Everything OpenAI Codex is an open-source workflow collection for Codex with install profiles, repo conventions, validation checks, and documentation.
+
+- **Codex workflow surface** – Packages reusable workflow guidance and public release material around Codex sessions.
+- **Validation-oriented** – Includes release-surface checks, linting, and manifest validation to keep public artifacts aligned.
+- **Cross-harness documentation** – Documents how Codex workflows relate to adjacent harnesses and operator shells.
+
 ### <a name='Devin'></a>Devin
 
 | Released   | Cost             | Open source | From   |
