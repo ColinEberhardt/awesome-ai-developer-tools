@@ -27,6 +27,7 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [Devin](#Devin)
 	* [Copilot Workspaces](#CopilotWorkspaces)
 	* [GitHub Copilot Agent Mode](#GitHubCopilotAgentMode)
+	* [AgentCollab](#AgentCollab)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -314,3 +315,18 @@ GitHub Copilot's **Agent Mode** is an advanced feature designed to enhance devel
 - **Terminal Command Suggestions**: Copilot recommends and can execute terminal commands essential for tasks like installing dependencies, running tests, or deploying applications, thereby automating routine command-line operations. 
 - **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions.
 - **Integration with Visual Studio Code**: Currently available in preview for Visual Studio Code, Agent Mode integrates seamlessly into the development environment, allowing developers to leverage its capabilities within their existing workflows.
+### <a name='AgentCollab'></a>AgentCollab
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| May 2026   | Free             | Yes         | [GitHub](https://github.com/JianFeiGan/agent-collab) |
+
+AgentCollab is a Multi-Agent Orchestration Engine for coordinating AI coding agents (Claude Code, Codex, Aider, OpenCode) to collaborate on software projects.
+
+- **YAML Workflow Definitions** – Define complex multi-agent workflows with task dependencies, conditional branching, and loop constructs in declarative YAML format
+- **Parallel Task Execution** – Execute independent tasks concurrently using asyncio, with configurable parallelism and automatic load balancing
+- **Checkpoint Recovery** – Resume long-running workflows from failure points without restarting, ensuring reliability for complex development tasks
+- **Multi-Agent Coordination** – Orchestrate Claude Code, Codex, Aider, OpenCode and custom agents to work together on software projects
+- **Plugin System** – Extend functionality with custom agents via entry_points and hook system for before/after task execution
+- **Enterprise Security** – RBAC permissions, multi-tenancy support, and JWT authentication for secure team collaboration
+- **Rich CLI Interface** – Beautiful terminal output with progress bars, task status, and execution statistics using Rich library
