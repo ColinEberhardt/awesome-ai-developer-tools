@@ -38,6 +38,11 @@ There are a growing number of tools that leverage AI to assist developers write 
 
 ## <a name='Autocompletiontools'></a>Autocompletion tools
 
+## <a name='SinglePurposeTools'></a>Single-Purpose Utilities
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities for developers including AI background remover (runs locally in your browser), OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, and content disclosure generator. All tools are browser-based, require no signup, and are completely free.
+
+
 ### <a name='GitHubCopilot'></a>GitHub Copilot
 
 | Released   | Cost             | Open source | From   |
