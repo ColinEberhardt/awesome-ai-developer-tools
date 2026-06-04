@@ -314,3 +314,25 @@ GitHub Copilot's **Agent Mode** is an advanced feature designed to enhance devel
 - **Terminal Command Suggestions**: Copilot recommends and can execute terminal commands essential for tasks like installing dependencies, running tests, or deploying applications, thereby automating routine command-line operations. 
 - **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions.
 - **Integration with Visual Studio Code**: Currently available in preview for Visual Studio Code, Agent Mode integrates seamlessly into the development environment, allowing developers to leverage its capabilities within their existing workflows.
+
+## <a name='Utilities'></a>Utilities
+
+### <a name='TinyTools'></a>TinyTools
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2024   | Free   | Yes          | [TinyTools](https://tinytools-smoky.vercel.app/) |
+
+TinyTools is a collection of free, browser-based, single-purpose web utilities that require no signup. Each tool is focused, lightweight, and runs entirely in the browser for privacy and speed.
+
+- **Domain Name Generator** – Generates creative domain name suggestions using AI, helping find the perfect name for your project.
+- **OG Image Generator** – Creates Open Graph meta images for better social media sharing, with customizable templates.
+- **AI Background Remover** – Removes backgrounds from images using AI, runs completely locally in your browser for privacy.
+- **Favicon Generator** – Generates favicons from text or images, supporting multiple formats and sizes.
+- **Color Palette Generator** – Creates beautiful color palettes from images or generates harmonious palettes from a single color.
+- **SEO Meta Tag Generator** – Generates SEO-optimized meta tags for improved search engine visibility.
+- **AI Cost Calculator** – Calculates costs for various AI services and models to help estimate project expenses.
+- **AI Content Disclosure Generator** – Creates AI disclosure statements compliant with EU AI Act and other regulations.
+- **AI Robots.txt Generator** – Generates optimized robots.txt files for search engine crawling control.
+
+All tools are open source, require no signup, and prioritize user privacy by processing data locally when possible.
