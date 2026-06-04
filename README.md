@@ -38,6 +38,8 @@ There are a growing number of tools that leverage AI to assist developers write 
 
 ## <a name='Autocompletiontools'></a>Autocompletion tools
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free, browser-based utilities for developers including favicon generator, OG image generator, color palette generator, domain name generator, SEO meta tag generator, background remover (AI), and more. No signup, all open source.
+
 ### <a name='GitHubCopilot'></a>GitHub Copilot
 
 | Released   | Cost             | Open source | From   |
