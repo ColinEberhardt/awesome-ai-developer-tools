@@ -261,6 +261,7 @@ Lovable.dev is an AI-powered platform designed to simplify and accelerate web ap
 
 ## <a name='Agents'></a>Agents
 
+- **[llm-box](https://github.com/alib8b8/llm-box)** - Terminal-first AI workflow engine for orchestrating multi-model LLM pipelines via YAML.
 ### <a name='OpenWork'></a>OpenWork
 
 | Released   | Cost             | Open source | From   |
